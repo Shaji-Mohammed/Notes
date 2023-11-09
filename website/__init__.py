@@ -25,7 +25,3 @@ def create_app():
         print('Created Database!')
 
     return app
-
-
-# def create_database():
-#     if not path.exists('website/' + DB_NAME):
